@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Contributing to opensource**
+- 🔭 I’m currently working on **Contributing to open source**
 
 - 🌱 I’m currently learning **All the things.**
 
